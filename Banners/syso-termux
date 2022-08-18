@@ -1,0 +1,54 @@
+#!/bin/bash
+verde='\033[1;32m'
+blanco='\033[1;37m'
+cmatrix -s 
+clear
+echo -e ${verde}"            ╭━━━━━━━━━━━━━━━━━━━━━━╮"
+sleep 0.1
+echo -e "            ┃    ${blanco}••   …………    ●    ${verde}┃"
+sleep 0.1
+echo -e "            ┃                      ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ███████      ███████ ┃"
+sleep 0.1
+echo -e "            ┃ ███████  ${blanco}>_${verde}  ███████ ┃"
+sleep 0.1
+echo -e "            ┃ ███████      ███████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃ ████████████████████ ┃"
+sleep 0.1
+echo -e "            ┃                      ┃"
+sleep 0.1
+echo -e "            ┃   ${blanco}[=]   [___]   ->${verde}   ┃"
+sleep 0.1
+echo -e "            ╰━━━━━━━━━━━━━━━━━━━━━━╯"
+sleep 0.1
+echo -e ${verde}"            ┃  ┌═══════════════════┐"
+echo -e ${verde}"            └═>█${blanco}ERROR-404-COMMUNITY${verde}█"
+echo -e ${verde}"               └═══════════════════┘
+"${blanco}
+#Credits to @Darkmux
+
+

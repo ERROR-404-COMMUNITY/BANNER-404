@@ -1,0 +1,30 @@
+#!/bin/bash
+clear
+echo -e '\033[31m'"┌═══════════════════════════════════════════════════┐
+|      .......''''''.''.':;...........    ..         |
+|       .....'''',;,,,;:cc::do,,,,..'..........      |
+|    .......';::;;clccldxolclkxlllc:;:,''.....''     |
+|    ....''',cllcldddxkkdllld0kdddolll:::;;,'',...   |
+|   ...'.':;';looooxxkOkdl;,;cddddkkdddolccl:,;,'... |
+| ....,',lc,:lloodkOOOxolc::ccloodkkkkxollol;;,;,... |
+|''''.';,,ll:cooodk0Oxolc:;;,;::cdxkkOOkxddd:c:;c:''.|
+|,,.'',c;;odcloddlc;'.        .. .;lxOkxddoldl;c:,;:.|
+|;,''',:;;dxllddl'.           ..   .'cddooddooOd:l;l:|
+|.,,',,;:;;ddodxxo,...         ..   ..,oxoxxlo0x:ol:c|
+|,;;;;:c:;dxdxkxdo:,.         ..   .':odxkxolkdcolol,|
+|,;::cll::ldxOxlcoc::.        ..  ...,:;cdkkdodolool;|
+|;,:clol;:xkxxl';l;,lc,.      ,' .'' .;,.,oxxxxolxoo:|
+|:;:codlokkdlo:..;:,:ll:..   .cl,';:. ...:lllxOxlll;c|
+|c:;:ldxxlc:;:;. .;'';:c:'.  .lo,'.,.   'clc;;oxdcc;l|
+|c;,;lxc'';odddocoxdoddxxdddddkkddoolcccl:'...;cxlccl|
+|,;;:c:'..;0XXXXXXXXXXXXXXXXXXXXKKKXKKKX0;   .,;;:lcc|
+|',;,''...,OK0KKKKKKKKKKKKKKKKKKKKKKKK0KO,   .'',;c',|
+|.''......'x0O0000KK0000000000000KK00000x'    ..'',;.|
+|.....     ;dOkkOOOOOOOOkkkkkkkOOOO00OOOOo...    ....|
+|.,;,..   .oxxxxkkkxxddddoooddddxxkkkxxxc..'.  ..','.|
+|..'',,'',:looddddoolcccccccccclloodddool,'''''''... |
+| ......:cllllllcc:;;,,,,,,,,,,;;::clllcllc;......   |
+|       .;:ccc:;;,'''''''''''''''',;::cc::;'.        |
+└════════════════════════════════════════════════════┘
+\e[1;37m         ::::::::𝐄𝐑𝐑𝐎𝐑-𝟒𝟎𝟒-𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘:::::::::
+"|pv -qL 1000

@@ -1,0 +1,28 @@
+#!/bin/bash
+rred="\e[1;31m"
+clear
+echo -e $rred'''
+
+             ./oydmMMMMMMmdyo/.
+           :smMMMMMMMMMMMhs+:++yhs:
+        `omMMMMMMMMMMMN+`        `odo`
+       /NMMMMMMMMMMMMN-            `sN/
+      `hMMMMmhhmMMMMMMh               sMh`
+     .mMmo-     /yMMMMm`              `MMm.
+     mN/       yMMMMMMMd-             :MMMm
+   oN-        oMMMMMMMMMms+//+o+x    :MMMMo
+   m/          +NMMMMMMMMMMMMMMMMm. :NMMMMm
+   M`           .NMMMMMMMMMMMMMMMNodMMMMMMM
+   M-            sMMMMMMMMMMMMMMMMMMMMMMMMM
+   mm`           mMMMMMMMMMNdhhdNMMMMMMMMMm
+   oMm/        .dMMMMMMMMh:      :dMMMMMMMo
+    mMMNyo/:/sdMMMMMMMMM+          sMMMMMm
+    .mMMMMMMMMMMMMMMMMMs           `NMMMm.
+     `hMMMMMMMMMMM.oo+S            `MMMh`
+        /NMMMMMMMMM                 sMN:
+        `omMMMMMMMMy.            :dmo`
+            :smMMMMMMMh+-`   `.:ohs:
+                ./oydmMMMMMMdhyo/.
+
+
+'''

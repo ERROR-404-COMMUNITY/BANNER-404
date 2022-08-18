@@ -1,0 +1,28 @@
+#!/bin/bash
+rred="\e[1;31m"
+clear
+echo -e ''' \e[1;31m                 ```            ````                
+               ``                   ``              
+             `` ::𝐄𝐑𝐑𝐎𝐑-𝟒𝟎𝟒-𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘:: ``            
+            -h-`                        -           
+            dMMy     `::`     ```      :N-          
+           `MMMm`.:+shMNy+-./ohNd+:.` /NM/          
+           .MMMmdNMMMMMMMh/-yMMMMMMNdsyMM+          
+           `NMM+yMMMMMMMm/+o:dMMMMMMMNoNM+          
+            yMm`-dNMNNmNNMMMMdhmNMMMm/`dM+          
+            +MN-``:++/oNMMMMMMh/+oo/-``hM/          
+           `dMm/::hmNMMNMMMMMMNmho-../hm`          
+           ` /MMMMNmMMMmdmmmmmNMMNNNmmMM: `         
+      `-+ydmo.dMMMMMMmhy/---:ohdNMMMMMMm:hmhs/-     
+  ./shmNMMMMMd+dMMMMMms-.-.-..:hmMMMMMddNMMMMMNdy+: 
+  :hNMMMMMMMMMNNMMNMMNo-.-----/dNMNNMMNMMMMMMMMMMNs 
+   -sMMMMMmyys+dMMNmMNNhyo+oydNmhNmNNMsoyyyNMMMMN+` 
+    :dNs::o.`:dNMMNNmNmhhyyhyyydmNNMMMNy.`:o:/hMo-  
+     +do-.ym+NMMMMd.`:mNmmddmNNs.`/MMMMMhsN/`/hh.   
+      -ddmMMNNMMMMM/ :hMMMMMMMNs. hMMMMMdMMNdds     
+       ..yMMMMMMMMd+ -mMMMdNMMMs``yNMMMMMMMM-.      
+         .mMMMdy/.    :yso-/oyy`   `-ohNMMMs`       
+         `+y+.           ```           `-sy:        
+''' | lolcat
+echo -ne "            " ; date | lolcat
+echo

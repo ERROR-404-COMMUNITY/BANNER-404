@@ -21,7 +21,7 @@ echo -e ${R}"   [${G}-↓-${R}] ${W}Recuerda apoyarme en mis redes sociales${R}[
 echo
 echo -e ${R}"[${G}*${R}] ${B}Canal de telegram: "${W}https://t.me/error404_community
 echo -e ${R}"[${G}*${R}] ${B}Contacto directo: "${W}@Error404_00
-echo -e ${R}"[${G}*${R}] ${B}Tik Tok: "${W}tiktok.com/@comm_error404
+echo -e ${R}"[${G}*${R}] ${B}Tik Tok: "${W}tiktok.com/@error404_community
 echo
 echo
 echo -e ${G}"Presiona ENTER para continuar"
